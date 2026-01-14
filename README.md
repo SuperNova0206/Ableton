@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-##
-=======
-# Ableton
->>>>>>> 020e413297a5dcb676cee7643861b6d9225c1cbf
+<center>##Ableton</center>
+---
+![alt text](https://github.com/SuperNova0206/Ableton/tree/main/assets/imgs/Ableton.png "Logo Title Text 1")
+
+
