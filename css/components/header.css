@@ -1,0 +1,71 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px 0px;
+}
+
+header .logo-navLinks {
+    display: flex;
+}
+
+/* Logo */
+header .logo-navLinks .logo {
+    width: 80px;
+}
+
+header .logo-navLinks .logo img {
+    object-fit: cover;
+    width: 100%;
+}
+
+/* NavLinks */
+
+header .logo-navLinks .navLinks {
+    list-style: none;
+    font-family: 'Futura PT', sans-serif;
+    text-transform: capitalize;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header .logo-navLinks .navLinks li {
+    font-size: 24px;
+    margin-left: 32px;
+}
+
+header .logo-navLinks .navLinks li a {
+    color: #000;
+}
+
+/* More button */
+.plus {
+    font-size: 32px;
+    font-weight: 500;
+}
+header .logo-navLinks .navLinks li:last-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* CTA-auth */
+header .cta-auth {
+    display: flex;
+    font-family: 'Futura PT', sans-serif;
+    font-size: 24px;
+}
+
+header .cta-auth .cta-btn {
+    margin-right: 32px;
+}
+
+header a {
+    text-decoration: none;
+}
+
+header .cta-auth .auth-btn a {
+    color: #000;
+    font-size: 20px;
+}
