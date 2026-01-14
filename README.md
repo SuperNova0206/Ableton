@@ -1,5 +1,6 @@
-<center>##Ableton</center>
+## Ableton
 ---
-![alt text](https://github.com/SuperNova0206/Ableton/tree/main/assets/imgs/Ableton.png "Logo Title Text 1")
 
-
+<p align="center">
+  <img src="./assets/imgs/Ableton.png" alt="Ableton UI Clone Preview" width="800">
+</p>
