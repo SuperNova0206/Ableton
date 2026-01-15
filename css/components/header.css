@@ -2,7 +2,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 40px 0px;
+    padding: 20px 40px;
 }
 
 header .logo-navLinks {
